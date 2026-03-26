@@ -1,0 +1,11 @@
+{
+    "data_path": "D:/Projects/SpeechUnderstanding/M25DE1035/Q2/data/LibriSpeech/train-clean-100",
+    "feature_dim": 40,
+    "latent_dim": 128,
+    "num_speakers": 251,
+    "num_environments": 5,
+    "learning_rate": 0.001,
+    "epochs": 10,
+    "batch_size": 32,
+    "ortho_penalty_weight": 0.05
+}

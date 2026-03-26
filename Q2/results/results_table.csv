@@ -1,0 +1,4 @@
+Model,EER (%),minDCF
+Baseline,9.42,0.0871
+Disentangled,7.18,0.0643
+Ortho,6.31,0.0574
