@@ -1,0 +1,9 @@
+# Data Manifest — Q1 Audio Files
+
+File: heisenberg.mp3
+Description: "You're goddamn right" scene — Breaking Bad Season 5 (Walter White / Heisenberg)
+Duration: ~4 seconds
+Channels: stereo → converted to mono for processing
+Sample rate: 44100 Hz (original), 16000 Hz (resampled for Wav2Vec2 in phonetic_mapping)
+Source: local recording
+Usage: mfcc_manual, leakage_snr, voiced_unvoiced, phonetic_mapping
